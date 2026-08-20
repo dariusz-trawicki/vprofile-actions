@@ -7,3 +7,5 @@ The **GitHub Actions** workflow `vprofile actions` runs app tests, builds a `Doc
 **Pipeline overview**
 - **CI**: Build and push image to ECR
 - **CD**: Deploy to EKS
+
+Example based on https://github.com/kshitijhatwar/vprofile-project.git
